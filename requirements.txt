@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+pdf2image
+opencv-python
+numpy
+langdetect
+nltk
+scikit-learn
+gtts
+googletrans==4.0.0-rc1
+pandas
