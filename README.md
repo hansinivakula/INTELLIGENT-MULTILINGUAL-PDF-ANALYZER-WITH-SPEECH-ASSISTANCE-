@@ -69,8 +69,11 @@ The objective of this project is to design a multilingual PDF analyzer that not 
 
 ### 📦 Python Environment
 Create a virtual environment:
+
    python -m venv venv
+
    source venv/bin/activate   # Linux/Mac
+   
    venv\Scripts\activate      # Windows
 
 ---
@@ -104,6 +107,7 @@ PDFANALYSER-PROJ/
 👩‍💻 Author
 
 Developed by Hansini Vakula Daruri
+
 Final-year Computer Science Student
 
      
